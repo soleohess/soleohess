@@ -7,11 +7,9 @@ I enjoy making things in a variety of mediums, including: coding, woodworking, a
     function Contact() {
     
       If (you need to reach me)
-        
         {
           Email: shess1272@student.pps.net
         };
-
     }
 <!---
 soleohess/soleohess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
