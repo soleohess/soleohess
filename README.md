@@ -1,7 +1,5 @@
-Hello, I’m @soleohess
-
-I’m currently attending IBW high school in OR, learning Comp Sci among other topics.
-
+Hello, I’m @soleohess  
+I’m currently attending high school, learning Comp Sci among other topics.  
 I enjoy making things in a variety of mediums, including: coding, woodworking, and cooking.
 
     function Contact() {
